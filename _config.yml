@@ -69,5 +69,4 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  branch: gh-pages
   repo: https://github.com/EragonJ/nihongo.git
