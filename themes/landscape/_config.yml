@@ -1,15 +1,15 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
+  Home: /nihongo
+  Archives: /nihongo/archives
+rss: /nihongo/atom.xml
 
 # Content
 excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: bottom
 widgets:
 - category
 - tag
